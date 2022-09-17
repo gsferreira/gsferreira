@@ -5,6 +5,8 @@
 
 - 📝 I regularly write articles on [https://gsferreira.com](https://gsferreira.com)
 
-- 💬 Ask me about **dotnet, clean code, mental health**
+- ▶️ I publish videos on YouTube ([my channel](https://www.youtube.com/c/gsferreirachannel))
+
+- 💬 Ask me about **dotnet, simple code, mental health**
 
 - 📫 How to reach me **me@gsferreira.com**
